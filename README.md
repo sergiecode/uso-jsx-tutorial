@@ -1,8 +1,8 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/1.png)
+![uso-jsx-tutorial-image1](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/1.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/2.png)
+![uso-jsx-tutorial-image2](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/2.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/3.png)
+![uso-jsx-tutorial-image3](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/3.png)
 
 
 
