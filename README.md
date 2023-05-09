@@ -1,8 +1,8 @@
-![uso-jsx-tutorial-image1](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/1.png)
+![Tutorial sobre uso de JSX en REACT imagen 1](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/1.png)
 
-![uso-jsx-tutorial-image2](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/2.png)
+![Tutorial sobre uso de JSX en REACT imagen 2](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/2.png)
 
-![uso-jsx-tutorial-image3](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/3.png)
+![Tutorial sobre uso de JSX en REACT imagen 3](https://raw.githubusercontent.com/sergiecode/uso-jsx-tutorial/master/3.png)
 
 
 
